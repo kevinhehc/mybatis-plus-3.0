@@ -18,7 +18,7 @@ dependencies {
     implementation "${lib.'mybatis-freemarker'}"
     implementation "de.ruedigermoeller:fst:3.0.4-jdk17"
     implementation "com.github.ben-manes.caffeine:caffeine:2.9.3"
-    testImplementation "com.github.pagehelper:pagehelper:5.3.1"
+    testImplementation "com.github.pagehelper:pagehelper:5.3.3"
     testImplementation "com.google.guava:guava:31.1-jre"
     testImplementation "io.github.classgraph:classgraph:+"
     testImplementation "${lib.h2}"
